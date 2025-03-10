@@ -77,7 +77,8 @@ export default function Home() {
           <h2 className="text-3xl font-bold text-black mb-8">Get In Touch</h2>
           <div className="max-w-xl">
             <p className="text-lg text-gray-800 mb-6">
-              I'm always open to discussing new projects, opportunities, or collaborations.
+            <p>I'm always open to discussing new projects, opportunities, or collaborations.</p>
+
             </p>
             <div className="flex flex-wrap gap-4">
               <Link
