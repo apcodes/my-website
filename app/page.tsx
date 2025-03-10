@@ -59,7 +59,7 @@ export default function Home() {
               title="The Pastebin + URL Shortener"
               description="Developed a web-based Paste Bin and URL Shortener using Python and RESTful API design principles. Deployed on Kubernetes OKD, leveraging oc for cluster management. Users can shorten URLs and store text snippets."
               tags={["Python", "RESTful API", "Kubernetes", "OKD"]}
-              link="https://github.com/comp423-25s/ex01-api-design-team_0_17"
+              link="https://ex01-comp590-140-25sp-anishpa.apps.unc.edu/docs"
             />
             <ProjectCard
               title="Personal Website for Teacher"
