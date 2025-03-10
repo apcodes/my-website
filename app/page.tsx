@@ -1,11 +1,9 @@
 import Link from "next/link"
-import BackgroundPath from "@/components/background-path"
 import ProjectCard from "@/components/project-card"
 
 export default function Home() {
   return (
     <div className="relative min-h-screen bg-white">
-      <BackgroundPath />
 
       <header className="container mx-auto px-4 py-6">
         <nav className="flex justify-between items-center">
@@ -77,7 +75,7 @@ export default function Home() {
           <h2 className="text-3xl font-bold text-black mb-8">Get In Touch</h2>
           <div className="max-w-xl">
             <p className="text-lg text-gray-800 mb-6">
-            <p>I am always open to discussing new projects, opportunities, or collaborations.</p>
+             I am always open to discussing new projects, opportunities, or collaborations.
 
             </p>
             <div className="flex flex-wrap gap-4">
