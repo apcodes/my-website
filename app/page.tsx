@@ -1,5 +1,6 @@
 import Link from "next/link"
 import ProjectCard from "@/components/project-card"
+import Image from "next/image"
 
 export default function Home() {
   return (
@@ -19,14 +20,14 @@ export default function Home() {
       <section className="mb-20 relative z-10">
         <h2 className="text-3xl font-bold mb-4">About Me</h2>
         <div className="flex flex-col md:flex-row items-center gap-6">
-          <img
+          <Image
             src="photo.jpg"
             alt="Anish Parepalli"
             className="rounded-full w-40 h-40 object-cover"
           />
           <p className="text-gray-800 leading-relaxed">
-            Hi! I'm Anish Parepalli, a 3rd year at UNC.  I’m a junior at the University of North Carolina at Chapel Hill double majoring in Computer Science (B.S.) and Statistics and Analytics (B.S.).
-            My interests are in software engineering, data science, and solving challenging problems. Outside of tech, I'm an avid Tottenham Hotspur fan ⚽️ and hold a First Degree Black Belt in Taekwondo 🥋.
+            Hi! I&aposm Anish Parepalli, a 3rd year at UNC.  I&aposm a junior at the University of North Carolina at Chapel Hill double majoring in Computer Science (B.S.) and Statistics and Analytics (B.S.).
+            My interests are in software engineering, data science, and solving challenging problems. Outside of tech, I&aposm an avid Tottenham Hotspur fan ⚽️ and hold a First Degree Black Belt in Taekwondo 🥋.
           </p>
         </div>
       </section>
@@ -98,7 +99,7 @@ export default function Home() {
           <p className="text-sm text-gray-600">© {new Date().getFullYear()} Anish Parepalli. All rights reserved.</p>
         </div>
         <blockquote className="italic font-light text-center">
-          "I'm always hungry. I can be better always." — Son Heung-min
+        &quotI&aposm always hungry. I can be better always.&quot — Son Heung-min
         </blockquote>
       </footer>
     </div>
