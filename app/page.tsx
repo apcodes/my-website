@@ -26,8 +26,8 @@ export default function Home() {
             className="rounded-full w-40 h-40 object-cover"
           />
           <p className="text-gray-800 leading-relaxed">
-            Hi! I&aposm Anish Parepalli, a 3rd year at UNC.  I&aposm a junior at the University of North Carolina at Chapel Hill double majoring in Computer Science (B.S.) and Statistics and Analytics (B.S.).
-            My interests are in software engineering, data science, and solving challenging problems. Outside of tech, I&aposm an avid Tottenham Hotspur fan ⚽️ and hold a First Degree Black Belt in Taekwondo 🥋.
+            Hi! I&apos;m Anish Parepalli, a 3rd year at UNC.  I&apos;m a junior at the University of North Carolina at Chapel Hill double majoring in Computer Science (B.S.) and Statistics and Analytics (B.S.).
+            My interests are in software engineering, data science, and solving challenging problems. Outside of tech, I&apos;m an avid Tottenham Hotspur fan ⚽️ and hold a First Degree Black Belt in Taekwondo 🥋.
           </p>
         </div>
       </section>
@@ -99,7 +99,7 @@ export default function Home() {
           <p className="text-sm text-gray-600">© {new Date().getFullYear()} Anish Parepalli. All rights reserved.</p>
         </div>
         <blockquote className="italic font-light text-center">
-        &quotI&aposm always hungry. I can be better always.&quot — Son Heung-min
+        &quot;I&apos;m always hungry. I can be better always.&quot; — Son Heung-min
         </blockquote>
       </footer>
     </div>
