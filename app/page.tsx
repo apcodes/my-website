@@ -26,7 +26,7 @@ export default function Home() {
             className="rounded-full w-40 h-40 object-cover"
           />
           <p className="text-gray-800 leading-relaxed">
-            Hi! I&apos;m Anish Parepalli, a 3rd year at UNC.  I&apos;m a junior at the University of North Carolina at Chapel Hill double majoring in Computer Science (B.S.) and Statistics and Analytics (B.S.).
+            Hi! I&apos;m Anish Parepalli, a 3rd year at UNC.
             My interests are in software engineering, data science, and solving challenging problems. Outside of tech, I&apos;m an avid Tottenham Hotspur fan ⚽️ and hold a First Degree Black Belt in Taekwondo 🥋.
           </p>
         </div>
