@@ -164,16 +164,16 @@ export default function Home() {
         </section>
 
         {/* Contact Section */}
-        <section id="contact" className="py-16 md:py-14">
-          <div className="max-w-3xl mx-auto">
-            <h2 className="text-3xl font-bold mb-8 relative inline-block">
+        <section id="contact" className="py-16 md:py-14 justify-center">
+          <div className="max-w-3xl mx-auto justify-center">
+            <h2 className="text-3xl font-bold mb-8 relative inline-block justify-center">
               Get In Touch
-              <div className="absolute -bottom-1 left-0 w-1/3 h-1 bg-blue-600 dark:bg-blue-400 rounded-full"></div>
+              <div className="absolute -bottom-1 left-0 w-1/3 h-1 bg-blue-600 dark:bg-blue-400 rounded-full justify-center"></div>
             </h2>
-            <p className="text-lg mb-8">
+            <p className="text-lg mb-8 justify-center">
               I am always open to discussing new projects, opportunities, or collaborations.
             </p>
-            <div className="flex flex-wrap gap-4">
+            <div className="flex flex-wrap gap-4 justify-center">
               <GlowingButton href="mailto:Aparepalli@gmail.com" variant="default">
                 <MailIcon className="mr-2 h-4 w-4" />
                 Email Me
